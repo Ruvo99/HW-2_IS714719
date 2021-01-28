@@ -1,6 +1,6 @@
-# tarea2_is714719
+# HW#2 Mobile Devices Programming
 
-A new Flutter project.
+Author: Miguel Angel Ruvalcaba Navarro
 
 ## Getting Started
 
