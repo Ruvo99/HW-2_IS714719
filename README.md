@@ -2,6 +2,8 @@
 
 Author: Miguel Angel Ruvalcaba Navarro
 
+This is my first Flutter application, where I had to replicate a given image of another application.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
